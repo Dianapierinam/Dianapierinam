@@ -9,7 +9,8 @@
 <br>
 
 
-###👩🏻‍💻 &nbsp;About Me
+### 👩🏻‍💻 &nbsp;About Me
+
 
 
 Hi, I'm Diana! 👋 I have a Bachelor's degree in International Business and I'm a Front-End Web Developer 💻 currently focused on the technology sector, which is an area I'm passionate about.
